@@ -4,6 +4,7 @@
 +.dahlia-av.jp
 +.faleno.jp
 +.jp
++.fastly.jsdelivr.net
 # --- 2. 日本特定厂商与同人平台生态 ---
 +.dmm.co.jp
 +.dmm.com
@@ -12,8 +13,6 @@
 +.pixiv.net
 +.booth.pm
 +.fantia.jp
-
-+.fastly.jsdelivr.net
 anime-rule34-world.b-cdn.net
 misa-prod.s3.ap-northeast-1.amazonaws.com
 widgets.stripst.com
